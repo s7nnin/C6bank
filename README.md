@@ -28,11 +28,11 @@ This is a study project about animations with layout of C6 Bank :books:
 
 ## :camera: Images
 
-<a href="https://github.com/joao-lucas-dev/c6bank-clone/tree/master/photos">Click here to see the images</a>
+<a href="https://github.com/s7nnin/c6bank-clone/tree/master/photos">Click here to see the images</a>
 
 ## :electric_plug: Getting started
 
-1. Clone this repo using: `https://github.com/joao-lucas-dev/c6bank-clone.git`
+1. Clone this repo
 2. Move yourself to the appropriate directory: `cd c6bank-clone`
 3. To install all dependencies, run: `yarn`
 4. If you use IOS, run: `cd ios` after `pod install`
