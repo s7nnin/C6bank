@@ -23,11 +23,7 @@ This project features all the latest tools and practices in mobile development!
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
 
 
-## 💻 Project
 
-This is a study project about animations with layout of C6 Bank :books:
-
-## :camera: Images
 
 <a href="https://github.com/s7nnin/c6bank-clone/tree/master/photos">Click here to see the images</a>
 
