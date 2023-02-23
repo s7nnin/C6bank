@@ -21,19 +21,3 @@
 This project features all the latest tools and practices in mobile development!
 
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
-
-
-## 💻 Project
-
-This is a study project about animations with layout of C6 Bank :books:
-
-
-## :electric_plug: Getting started
-
-1. Clone this repo
-2. Move yourself to the appropriate directory: `cd c6bank-clone`
-3. To install all dependencies, run: `yarn`
-4. If you use IOS, run: `cd ios` after `pod install`
-5. Come back to directory: `c6bank-clone`.
-6. Run `react-native run-ios` (or `run-android if your prefer) to start the mobile app
-
