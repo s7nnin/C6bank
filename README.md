@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <a href="#rocket-technologies">Technologies</a>;
+  <a href="#rocket-technologies">Technologies</a>
 </p>
 
 <br>
