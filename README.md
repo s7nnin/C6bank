@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="Mockup" src="photos/demo.gif">
+  
   <img alt="Mockup" src="c6-banco.gif">
 </p>
 
