@@ -12,8 +12,8 @@
 <br>
 
 <p align="center">
-  
-  <img alt="Mockup" src="c6-banco.gif">
+
+  <img alt="Mockup" src="photos/c6-banco.gif">
 </p>
 
 ## :rocket: Technologies
